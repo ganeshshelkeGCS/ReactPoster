@@ -1,8 +1,6 @@
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Instructions
+steps 1: cd ./extra-files/dummy-backend
+step 2: node app.js --start the backend in new teminal
+step 2: cd ..
+step 3: cd ..
+step 4: npm run start 
