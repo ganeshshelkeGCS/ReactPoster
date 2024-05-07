@@ -1,15 +1,15 @@
 {
-    "posts": [
-        {
-            "body": "ReactJS Developer ",
-            "author": "   Jayashri",
-            "id": "0.562443212639937"
-        },
-        {
-            "body": "data engineer",
-            "author": "Parag",
-            "id": "0.1841407036833138"
-        }
-        
-    ]
+  "posts": [
+    {
+      "body": "Angular Developer",
+      "author": "Ravindra",
+      "id": "0.3187245272724828"
+    },
+    {
+      "body": "ReactJS Developer ",
+      "author": "   Jayashri",
+      "id": "0.562443212639937"
+    },
+    { "body": "data engineer", "author": "Parag", "id": "0.1841407036833138" }
+  ]
 }
