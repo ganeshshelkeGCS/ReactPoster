@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactPoster/static/css/main.539b88d5.css",
+    "main.js": "/ReactPoster/static/js/main.d22ced23.js",
+    "static/js/453.6da1f401.chunk.js": "/ReactPoster/static/js/453.6da1f401.chunk.js",
+    "index.html": "/ReactPoster/index.html",
+    "main.539b88d5.css.map": "/ReactPoster/static/css/main.539b88d5.css.map",
+    "main.d22ced23.js.map": "/ReactPoster/static/js/main.d22ced23.js.map",
+    "453.6da1f401.chunk.js.map": "/ReactPoster/static/js/453.6da1f401.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.539b88d5.css",
+    "static/js/main.d22ced23.js"
+  ]
+}
